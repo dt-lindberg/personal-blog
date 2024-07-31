@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://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@github.com/dt-lindberg/personal-blog.git
